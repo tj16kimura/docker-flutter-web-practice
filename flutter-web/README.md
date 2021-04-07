@@ -1,5 +1,7 @@
 dockerでFlutter web serverを立ち上げる
 
+`--network=host`は[LINUX限定](https://docs.docker.com/network/host/)
+
 ## Usage
 ```
 # docker imageを作成
